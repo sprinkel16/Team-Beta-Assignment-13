@@ -1,6 +1,7 @@
 # Team-Beta-Assignment-13
 Introduction to GitHub Assignment
 
+// Hannah Grigg Comment
 void setup() {
   pinMode(13, OUTPUT);    // sets the digital pin 13 as output
   pinMode(8, INPUT);      //sets the digital pin 8 as input
