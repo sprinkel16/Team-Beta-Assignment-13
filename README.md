@@ -3,6 +3,7 @@ Introduction to GitHub Assignment
 
 // Matthew Kevicki Comment
 // Hannah Grigg Comment
+// Grant Davis Comment
 void setup() {
   pinMode(13, OUTPUT);    // sets the digital pin 13 as output
   pinMode(8, INPUT);      //sets the digital pin 8 as input
